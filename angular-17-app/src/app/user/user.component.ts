@@ -17,6 +17,6 @@ export class UserComponent {
   }
 
   greet(){
-    alert("Welcome " + this.username);
+    alert("Welcome to this project" + this.username);
   }
 }
